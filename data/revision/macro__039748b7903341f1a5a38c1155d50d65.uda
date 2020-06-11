@@ -1,0 +1,30 @@
+{
+  "MacroType": 7,
+  "MacroSource": "~/Views/MacroPartials/FeaturedProducts.cshtml",
+  "UseInEditor": true,
+  "CacheDuration": 0,
+  "CacheByPage": false,
+  "CacheByMember": false,
+  "DontRender": false,
+  "Properties": [
+    {
+      "Key": "145ffe87-c65a-4312-8de6-288eb8fa3f3c",
+      "Alias": "product",
+      "Name": "Choose Product",
+      "SortOrder": 0,
+      "EditorAlias": "Umbraco.ContentPicker"
+    }
+  ],
+  "Udi": "umb://macro/039748b7903341f1a5a38c1155d50d65",
+  "Dependencies": [
+    {
+      "Udi": "umb://partial-view-macro/FeaturedProducts.cshtml",
+      "Ordering": true,
+      "Mode": 1
+    }
+  ],
+  "Name": "Select Featured Products",
+  "Alias": "featuredProduct",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.MacroArtifact",
+  "__version": "3.4.5"
+}
